@@ -15,3 +15,27 @@
 2. За основу "поведения" верхнего ряда кнопок взята русская раскладка Windows, по возможности дополнительные символы  английской раскладки вынесены в комбинации с AltGr+ (правый Alt) под Windows и Option+ под macOS.
 3. Часто используемые дополнительные символы вынесены на комбинации AltGr+буква (Option+буква).
 
+Все идеи отразил на такой схеме:
+![keyboard](/Images/WhiskKBLayouts.png)
+, исходник Excel находится в папке Images.
+
+Также в папке **Images** находятся PDF-ки полученные в испольованных программах.
+
+## Инструменты (программы)
+
+- для macOS использовалась известная программа [Ukekele](http://software.sil.org/ukelele/) version 3.4.2 (3.4.2.314), в одном пакете две раскладки: "EN by Whisk" и "RU by Whisk";
+- для создания инсталяторов для Windows использовалась [Microsoft Keyboard Layout Creator] (https://www.microsoft.com/en-us/download/details.aspx?id=22339) version 1.4.
+
+## Перечень раскладок
+
+- macOS:
+  - EN by Whisk;
+  - RU by Whisk;
+- Windows:
+  - Английская - EN Whisk;
+  - Русская - RU Whisk.
+  
+## Установка
+
+- macOS: открыть образ *.dmg, использовать приложение **"Keyboard Installer.app"** для установки **"WhiskKBLayouts.bundle"** либо вручную скопировать пакет в _**/Library/Keyboard Layouts**_ (для всех пользователей) или в _**~/Library/Keyboard Layouts**_ (только для текущего пользователя).
+- распаковать *.zip архив, запустить установщик, каждая раскладка в отдельном файле.
