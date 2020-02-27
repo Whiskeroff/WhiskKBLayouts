@@ -1,0 +1,8 @@
+.DS_Store
+desktop.ini
+*.log
+Layouts/EN_WHISK/en_whisk
+Layouts/RU_WHISK/ru_whisk
+*.dll
+*.msi
+*.exe
