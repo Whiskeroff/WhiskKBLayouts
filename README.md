@@ -23,7 +23,7 @@
 Вот описание использования раскладки, по трем типам клавиш (см. схему выше):
 
 ![keys_row_num](/Images/keys_row_num.png)
-![keys_row_alpha](/Images/key_rows_alpha.png)
+![keys_row_alpha](/Images/keys_row_alpha.png)
 
 ## Реализация
 1. Буква ё/Ё находится слева вверху в русской раскладке.
