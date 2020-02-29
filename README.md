@@ -46,7 +46,7 @@
 
 ## Инструменты (программы)
 
-Исходные пакеты размещены в папке _**Images**_:
+Исходные пакеты размещены в папке _**Layouts**_:
 - для macOS использовалась известная программа [Ukekele](http://software.sil.org/ukelele/) version 3.4.2 (3.4.2.314), в одном пакете две раскладки: "EN by Whisk" и "RU by Whisk";
 - для создания инсталяторов для Windows использовалась программа [Microsoft  Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339) version 1.4.
 
