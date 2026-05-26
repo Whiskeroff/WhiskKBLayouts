@@ -7,10 +7,12 @@
 	<key>CFBundleName</key>
 	<string>WhiskKBLayouts</string>
 	<key>CFBundleVersion</key>
-	<string>1.0.0</string>
+	<string>2.0.0</string>
 	<key>KLInfo_EN by Whisk</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
 		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.uscobundle.enbywhisk</string>
@@ -20,6 +22,8 @@
 	<key>KLInfo_RU by Whisk</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
 		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.uscobundle.rubywhisk</string>
